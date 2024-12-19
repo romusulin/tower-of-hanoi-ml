@@ -1,0 +1,3 @@
+/.venv/
+qtable*.qta
+src/__pycache__/
